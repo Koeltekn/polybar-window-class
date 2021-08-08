@@ -1,2 +1,5 @@
-# polybar-window-class
-Module to show the focused window in polybar
+# Show focused window class in polybar
+## Usage
+- Download the scripts and place them in a folder.
+- Add the module to polybar
+- Profit
