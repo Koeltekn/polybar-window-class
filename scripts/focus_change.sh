@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# CHANGE TO NAME OF THE USED BAR
 BAR="BAR"
 BAR_PID=$(pgrep -a "polybar" | grep "$PARENT_BAR" | cut -d" " -f1)
 
